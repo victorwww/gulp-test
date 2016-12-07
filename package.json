@@ -1,0 +1,15 @@
+{
+  "name": "gulpsass",
+  "version": "1.0.0",
+  "description": "Projeto para desenvolve os modulos fora da aplicação SB com maior produtividade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Brites",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
